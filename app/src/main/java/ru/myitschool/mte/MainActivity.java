@@ -23,7 +23,7 @@ import ru.myitschool.mte.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ActivityMainBinding binding;
+     private ActivityMainBinding binding;
 
     TextView tvResult;
     EditText etSearch;

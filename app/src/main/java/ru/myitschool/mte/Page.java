@@ -7,5 +7,5 @@ public class Page {
     String excerpt;
     String matched_title;
     String description;
-    Thumbnail thumbnail;
+    Thumbnail thumbnail; //эскиз изображения
 }
